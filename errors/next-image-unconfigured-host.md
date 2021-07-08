@@ -16,7 +16,7 @@ module.exports = {
   },
 }
 ```
-
+And restart the server from the terminal.
 ### Useful Links
 
 - [Image Optimization Documentation](https://nextjs.org/docs/basic-features/image-optimization)
